@@ -1,7 +1,7 @@
 <h1 align="center">C++ Web Framework</h1><br>
 
 <p align="center">
-  <a href="https://nodejs.org/">
+  <a href="https://nebulaatom.github.io/">
     <img src="https://avatars.githubusercontent.com/u/160647534?s=200&v=4" alt="Nebula Atom Logo" height="140">
   </a>
 </p>
