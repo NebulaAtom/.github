@@ -1,4 +1,4 @@
-<h1 align="center">C++ Web Framework</h1><br>
+<h1 align="center">Web Framework in Modern C++</h1><br>
 
 <p align="center">
   <a href="https://nebulaatom.github.io/">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Nebula Atom is a C++ Web Framework for building high-performance APIs, supporting scalable architecture and modern web technologies.
+  Nebula Atom is a Web Framework in Modern C++ for building high-performance APIs, supporting scalable architecture and web technologies.
 </p>
 
 <p align="center">
